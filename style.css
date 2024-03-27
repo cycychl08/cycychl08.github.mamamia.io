@@ -1,0 +1,19 @@
+body {
+  background-color: #87CEEB; /* Bleu ciel */
+  font-family: 'Arial', sans-serif; 
+}
+
+h1 {
+  font-family: 'Arial Black', sans-serif; 
+  color: #AB47BC; /* Violet */
+}
+
+p {
+  line-height: 1.5;
+  color:#FF69B4; /* Rose */
+}
+
+li {
+  color:#FF69B4; /* Rose */
+  list-style: inside; 
+}
